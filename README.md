@@ -56,12 +56,22 @@ With in main technologies using  different sub technologies :
 - 
 ALL REST API structure is JSON(KEY-VALUE Pair)
 
-# CRUD operation of user (create , update , get all user or particular user and delete particular user) 
+## CRUD operation of user (create , update , get all user or particular user and delete particular user) 
 
 ![registre](https://user-images.githubusercontent.com/70846234/179347893-e3cf34ff-9830-444e-992c-7ecfc0e55462.png)
 ![update](https://user-images.githubusercontent.com/70846234/179347906-f83660a0-0eda-439a-a49f-3e8ae7d3b12f.png)
 ![delete](https://user-images.githubusercontent.com/70846234/179347908-5067daec-4056-4114-8dad-26b5a73a4da2.png)
 ![login](https://user-images.githubusercontent.com/70846234/179347910-fe444501-46b9-4c5a-a5b6-50eab04fc1fd.png)
 
+
+## CRUD operation of movies and series (create , update , get all movies or particular movie and delete particular moive) 
+
+![create moive](https://user-images.githubusercontent.com/70846234/179348938-200e4d71-2afe-4169-a7cd-1b5d189d333e.png)
+
+## CRUD operation of list of movies or series (create , update , get all lists or particular list and delete particular list) 
+
+
+
+![lists](https://user-images.githubusercontent.com/70846234/179348969-e054861d-bfa6-4883-9101-fea924416dfd.png)
 
 
