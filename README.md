@@ -104,11 +104,21 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 
 ## Admin Site Screen shots
 
-### create user , upadate user , list of all user from admin side 
+## Admin panel for user 
+### create user , upadate user , delete user ,list of all user from admin side 
 
 ![user list](https://user-images.githubusercontent.com/70846234/179349426-aca7a4b9-375c-4374-a686-34fe11c4330d.png)
 ![update user](https://user-images.githubusercontent.com/70846234/179349430-109397c0-8613-4801-9c91-42606a4f25d3.png)
 ![update new user](https://user-images.githubusercontent.com/70846234/179349485-6ff81a73-b546-4560-94b7-02ba965c3de1.png)
+
+
+## Admin panel for  movies 
+### create moive , upadate movie , delete movie ,list of all movies from admin side 
+
+![list of diiffrent moive](https://user-images.githubusercontent.com/70846234/179349547-9c740a5c-0a89-4716-b3da-720ca44dcae1.png)
+![create new moive](https://user-images.githubusercontent.com/70846234/179349551-001762f3-1545-48cf-8a7d-9749e9d9ae3f.png)
+![update moive ](https://user-images.githubusercontent.com/70846234/179349553-ff7efa3b-c809-4d8d-95ec-6f5d5f36a55f.png)
+
 
 
 
