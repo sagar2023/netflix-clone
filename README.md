@@ -41,3 +41,27 @@ With in main technologies using  different sub technologies :
 ### by default watch page
 ![watch page](https://user-images.githubusercontent.com/70846234/179347427-c55153ae-1b2b-4b24-ac63-4bab431774bf.png)
 
+
+
+# backend site screenshot
+
+1. REST API
+
+
+- create (post method)
+- upadate (put method)
+- delete (del method)
+- get (GET method)
+- get all (GET method)
+- 
+ALL REST API structure is JSON(KEY-VALUE Pair)
+
+# CRUD operation of user (create , update , get all user or particular user and delete particular user) 
+
+![registre](https://user-images.githubusercontent.com/70846234/179347893-e3cf34ff-9830-444e-992c-7ecfc0e55462.png)
+![update](https://user-images.githubusercontent.com/70846234/179347906-f83660a0-0eda-439a-a49f-3e8ae7d3b12f.png)
+![delete](https://user-images.githubusercontent.com/70846234/179347908-5067daec-4056-4114-8dad-26b5a73a4da2.png)
+![login](https://user-images.githubusercontent.com/70846234/179347910-fe444501-46b9-4c5a-a5b6-50eab04fc1fd.png)
+
+
+
