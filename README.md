@@ -102,4 +102,16 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 
 
 
+## Admin Site Screen shots
+
+### create user , upadate user , list of all user from admin side 
+
+![user list](https://user-images.githubusercontent.com/70846234/179349426-aca7a4b9-375c-4374-a686-34fe11c4330d.png)
+![update user](https://user-images.githubusercontent.com/70846234/179349430-109397c0-8613-4801-9c91-42606a4f25d3.png)
+![create new moive](https://user-images.githubusercontent.com/70846234/179349440-093d47ba-04f7-42b1-a78c-efd7215b7a60.png)
+
+
+
+
+
 
