@@ -73,7 +73,7 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 
 ![lists](https://user-images.githubusercontent.com/70846234/179348969-e054861d-bfa6-4883-9101-fea924416dfd.png)
 
-### keep track user stats using month and userid 
+### keep track user stats using month id and number user has been register in that particular month 
 
 
 ![keep tack of user register stats](https://user-images.githubusercontent.com/70846234/179349041-951ec3e3-37ce-4c75-bf9a-d3f784c7ef6a.png)
