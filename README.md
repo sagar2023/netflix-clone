@@ -15,7 +15,8 @@ With in main technologies using  different sub technologies :
 
 >registration page 
 ![registration page](https://user-images.githubusercontent.com/70846234/179347374-8c7efca2-8828-4c7d-9957-307a9260b48c.png)
-<br>
+
+</br>
 >login page 
 ![login page](https://user-images.githubusercontent.com/70846234/179347379-a81d522d-9dba-4729-81fd-6c151bccd519.png)
 
