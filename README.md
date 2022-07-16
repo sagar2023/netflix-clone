@@ -10,7 +10,7 @@ With in main technologies using  different sub technologies :
 - JWT
 - Custom hooks
 
-04:57:00 Making App Responsive
+
 ## client side screen shots
 
 ### registration page 
