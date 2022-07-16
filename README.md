@@ -79,3 +79,26 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 ![keep tack of user register stats](https://user-images.githubusercontent.com/70846234/179349041-951ec3e3-37ce-4c75-bf9a-d3f784c7ef6a.png)
 
 
+2. database(mongodb)
+- created one database (netflix database)
+- Inside booking databse created different collections
+1. users
+2. movies
+3. lists
+- inside collections add different document eg . in movies collections - added different movies information as document
+
+- structure of mongodb
+- database->collections->document
+- eg. netflix->users->sagar
+
+### In this screen shot included 3 collection users,movies, list with in collections added different documents
+
+![here are registre user](https://user-images.githubusercontent.com/70846234/179349319-eb423ec9-dccd-477c-afee-0da1a6ad8442.png)
+![in movies collection  different type of moives and series present as document ](https://user-images.githubusercontent.com/70846234/179349321-012d68c2-1fa1-47d8-8d0c-c0083d714a15.png)
+![list collection contaion list of moive and series document ](https://user-images.githubusercontent.com/70846234/179349322-d93dbf7a-ba00-4841-a61a-d2bcb63b685b.png)
+![only this user is is admin](https://user-images.githubusercontent.com/70846234/179349323-1da6694b-0e57-4443-866f-7feb173a2a8c.png)
+![those are not admin store as isadmin isfalse](https://user-images.githubusercontent.com/70846234/179349325-08821147-4de0-4706-ad61-fe6122a5860a.png)
+![3 collection](https://user-images.githubusercontent.com/70846234/179349327-778ae346-2d97-434f-830f-233e627bfc02.png)
+
+
+
