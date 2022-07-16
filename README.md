@@ -119,10 +119,13 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 ![create new moive](https://user-images.githubusercontent.com/70846234/179349551-001762f3-1545-48cf-8a7d-9749e9d9ae3f.png)
 ![update moive ](https://user-images.githubusercontent.com/70846234/179349553-ff7efa3b-c809-4d8d-95ec-6f5d5f36a55f.png)
 
+## Admin panel for  list of movies or series 
+### create list , upadate list , delete list ,list of all list of list of movies and series  from admin side 
 
 
 
+![create list of moive ](https://user-images.githubusercontent.com/70846234/179349620-a0b5fc68-f237-4e7a-be85-88d39518b8db.png)
 
-
+![update list](https://user-images.githubusercontent.com/70846234/179349623-8a4a159d-30fe-4f56-a13e-3c9aa9500655.png)
 
 
