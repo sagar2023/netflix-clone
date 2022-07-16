@@ -138,3 +138,12 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 ![update list](https://user-images.githubusercontent.com/70846234/179349623-8a4a159d-30fe-4f56-a13e-3c9aa9500655.png)
 
 
+
+# created , updated , deleted information from admin panel  stored  at firebase as database 
+
+
+![admin info stored on firebase](https://user-images.githubusercontent.com/70846234/179349979-ea170fe3-90e4-4d0c-8e3e-a9f83c0f0fc0.png)
+
+
+
+
