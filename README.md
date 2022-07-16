@@ -123,6 +123,7 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 ### create list , upadate list , delete list ,list of all list of list of movies and series  from admin side 
 
 
+![list of diffrent list of movies and series](https://user-images.githubusercontent.com/70846234/179349741-d061cdaa-7b3d-416e-9afd-a5a44a4727c9.png)
 
 ![create list of moive ](https://user-images.githubusercontent.com/70846234/179349620-a0b5fc68-f237-4e7a-be85-88d39518b8db.png)
 
